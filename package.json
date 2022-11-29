@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "4.4.0",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "fifa-22",
+  "version": "1.0",
+  "description": "A Fifa score extension that gives you the schedule and scores of Fifa Matches",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@hot-loader/react-dom": "^17.0.2",
+    "axios": "^1.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hot-loader": "^4.13.1"
