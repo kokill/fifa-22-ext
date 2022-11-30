@@ -1,1 +1,1 @@
-#Fifa 2022 Score Web Exxtension
+#Fifa 2022 Score Web Extension
