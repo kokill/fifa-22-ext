@@ -133,7 +133,7 @@ const printLine = line => {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("61da4271cd85f0d49624")
+/******/ 		__webpack_require__.h = () => ("f479a809a30ccaa7ef1f")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/harmony module decorator */
@@ -159,7 +159,7 @@ const printLine = line => {
 /******/ 	/* webpack/runtime/load script */
 /******/ 	(() => {
 /******/ 		var inProgress = {};
-/******/ 		var dataWebpackPrefix = "chrome-extension-boilerplate-react:";
+/******/ 		var dataWebpackPrefix = "fifa-22:";
 /******/ 		// loadScript function to load a script via script tag
 /******/ 		__webpack_require__.l = (url, done, key, chunkId) => {
 /******/ 			if(inProgress[url]) { inProgress[url].push(done); return; }
@@ -654,7 +654,7 @@ const printLine = line => {
 /******/ 			});
 /******/ 		}
 /******/ 		
-/******/ 		self["webpackHotUpdatechrome_extension_boilerplate_react"] = (chunkId, moreModules, runtime) => {
+/******/ 		self["webpackHotUpdatefifa_22"] = (chunkId, moreModules, runtime) => {
 /******/ 			for(var moduleId in moreModules) {
 /******/ 				if(__webpack_require__.o(moreModules, moduleId)) {
 /******/ 					currentUpdate[moduleId] = moreModules[moduleId];

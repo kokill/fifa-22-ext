@@ -5,7 +5,7 @@ import Scores from './Scores';
 const Popup = () => {
   return (
     <div className="App">
-      <header>Fifa 22 Scores (Since Yesterday)</header>
+      <header>Fifa 2022 Scores</header>
       <Scores />
     </div>
   );
